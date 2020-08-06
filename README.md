@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fernando Graciano</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+# Fernando Graciano 
 
-- 🔭 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
+Student Experience @Rocketseat.
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+[![Twitter Badge](https://img.shields.io/badge/-@fergracianoo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fergracianoo)](https://twitter.com/fergracianoo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Graciano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-graciano-767652174/)](https://www.linkedin.com/in/fernando-graciano-767652174/) 
+[![Gmail Badge](https://img.shields.io/badge/-fernandoggraciano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoggraciano@gmail.com)](mailto:fernandoggraciano@gmail.com)
 
-- 📫 How to reach me **fernandoggraciano@gmail.com**
+Enthusiast of the best web & mobile development technologies.
 
-- ⚡ Fun fact **I love cats and coffee**
-
-<p align="center">
-<a href="https://twitter.com/@fergracianoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@fergracianoo" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/fernando-graciano-767652174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/fernando-graciano-767652174/" height="30" width="30" /></a>
-</p>
+Passionate about education and changing people's lives through programming.
