@@ -1,6 +1,6 @@
 # Fernando Graciano 
 
-Student Experience @Rocketseat.
+Community Experience @Rocketseat.
 
 [![Twitter Badge](https://img.shields.io/badge/-@fergracianoo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fergracianoo)](https://twitter.com/fergracianoo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Graciano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-graciano-767652174/)](https://www.linkedin.com/in/fernando-graciano-767652174/) 
