@@ -1,11 +1,8 @@
-# Fernando Graciano 
+<img align="right" src="https://github.com/fergracianoo/fergracianoo/blob/master/images/illustration.png" width="300"/>
 
-Community Experience @Rocketseat.
+### Hello, I'm Graciano 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@fergracianoo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fergracianoo)](https://twitter.com/fergracianoo) 
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Graciano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-graciano-767652174/)](https://www.linkedin.com/in/fernando-graciano-767652174/) 
-[![Gmail Badge](https://img.shields.io/badge/-fernandoggraciano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoggraciano@gmail.com)](mailto:fernandoggraciano@gmail.com)
+Passionate about technology and changing people's lives through programming.
+I build applications with JavaScript. Lately, I'm making many useful things with React and Next.js. 🚀
 
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming.
+Currently, I am working at [Rocketseat](https://rocketseat.com.br/). If you would like to reach me, you can send me an email or follow me on [Twitter](https://twitter.com/fergracianoo). Looking forward to connecting with you 👋🏻
