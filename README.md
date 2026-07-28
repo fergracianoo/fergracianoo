@@ -1,5 +1,3 @@
-### Fernando Graciano
-
 Software engineer and tech lead with 10 years building systems where mistakes cost real
 money: payment reconciliation, receivables anticipation, fiscal compliance, and
 high-traffic consumer platforms.
