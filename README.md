@@ -21,5 +21,3 @@ integrations with parties that do not follow your standards.
 
 Spec-driven AI-assisted development with agentic tools, gated by code review, tests and
 quality pipelines.
-
-[LinkedIn](https://www.linkedin.com/in/fergracianoo/) · fernandoggraciano@gmail.com
