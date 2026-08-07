@@ -2,7 +2,7 @@ Software engineer and tech lead with 10 years building systems where mistakes co
 money: payment reconciliation, receivables anticipation, fiscal compliance, and
 high-traffic consumer platforms.
 
-Currently Head of Engineering at Finly, a fintech whose reconciliation and receivables
+Lately Head of Engineering at Finly, a fintech whose reconciliation and receivables
 platforms sit behind R$ 2.5B+ in card transactions. Before that: Sovos, Wiser Educação,
 Superlógica, VEGA I.T. and Rocketseat.
 
